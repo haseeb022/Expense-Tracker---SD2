@@ -1,1 +1,1 @@
-# Expense-Tracker - SD2
+# SD2 - ExpenseTracker
